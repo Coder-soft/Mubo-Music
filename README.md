@@ -1,6 +1,6 @@
-# Hi, I'm Coder-Sfot! 👋
+# Hi, I'm Coder-Soft! 👋
 
-I'm a Discord Bot Developer and here is mine Discord Music Bot
+Here is a fork
 
 # Advance Discord Music Bot
 
